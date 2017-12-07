@@ -3,7 +3,7 @@ The class project for Getting and Cleaning Data was to read in the "Human Activi
 Here are the steps that must be performed before running the R script:
 
 Download the zip file from this URL https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Unzip the file in the working directory. It will creats a folder "UCI HAR Dataset".
+Unzip the file in the working directory. It will creates a folder "UCI HAR Dataset".
 
 Once those steps are complete, you can run the R script (run_analysis.R). Note that it requires the reshape2 package, which can be downloaded from CRAN.
 
